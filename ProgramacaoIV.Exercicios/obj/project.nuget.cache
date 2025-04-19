@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEvIjxCvq6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Downloads\\umfg-programacao-iv-aula-20-02-2025\\ProgramacaoIV.Exercicios\\ProgramacaoIV.Exercicios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\materialdesigncolors\\5.2.1\\materialdesigncolors.5.2.1.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\materialdesignthemes\\5.2.1\\materialdesignthemes.5.2.1.nupkg.sha512",
+    "C:\\Users\\samue\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
